@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
   },
   inputer:{
     backgroundColor: 'white',
-    borderColor: '#aa0505',
+    borderColor: '#dddcff',
     borderWidth: 3,
     borderRadius: 10,
     width: '100%'

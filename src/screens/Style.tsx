@@ -8,12 +8,12 @@ export const styles = StyleSheet.create({
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#67c7eb'
+        backgroundColor: '#212121'
     },
     label: {
         fontSize: 20,
         fontWeight: 'bold',
-        color: '#aa0505'
+        color: '#dddcff'
     },
     inputer: {
         flexDirection: 'column',

@@ -16,6 +16,7 @@ import { PeopleInvolvedInput } from "../components/IronTextInputs/PeopleInvolved
 import { ConditionInput } from "../components/IronTextInputs/ConditionInput";
 import { PhoneInput } from "../components/IronTextInputs/PhoneNumber";
 import { AddRemarksInput } from "../components/IronTextInputs/AdditionalRemarks";
+import { IronSentButton } from "../components/IronButton/IronSentButton";
 
 
 export default function Home(){
@@ -93,7 +94,9 @@ export default function Home(){
                 <View style={styles.inputer}>
                     <Text style={styles.label}>Additional Remarks</Text>
                     <AddRemarksInput/>
-                </View>                                                            
+                </View>                                                           
+
+                <IronSentButton/> 
 
             </View>
             

@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 40,
     fontWeight: 'bold',
-    color: '#aa0505'
+    color: '#dddcff'
   },
   img:{
     resizeMode: 'contain',
